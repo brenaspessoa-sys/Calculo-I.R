@@ -1,5 +1,9 @@
 # 🦁 Calculadora de Imposto de Renda (IRPF 2025)
 
+![Status Concluído](https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 Este projeto é um script desenvolvido em **Python** para simular o cálculo do Imposto de Renda Retido na Fonte (IRRF), utilizando a **Tabela Progressiva Mensal da Receita Federal atualizada para 2025**.
 
 O objetivo principal é praticar a lógica de programação, estruturas condicionais e operações matemáticas em Python.
